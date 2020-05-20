@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Student CRUD test","This test will create a new student record","SUCCESS","2020-05-20T06:42:36.365+01:00[Europe/London]","0.0","9.26"
+"Student CRUD test","This test will Verify if the student is added to the application","SUCCESS","2020-05-20T06:42:45.702+01:00[Europe/London]","0.0","1.49"
+"Student CRUD test","Update the student information and verify the updated information","SUCCESS","2020-05-20T06:42:47.208+01:00[Europe/London]","0.0","0.53"
+"Student CRUD test","Delete the student and verify if the student is deleted!","SUCCESS","2020-05-20T06:42:47.755+01:00[Europe/London]","0.0","0.19"
